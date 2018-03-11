@@ -1,0 +1,11 @@
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt string.csprojResolveAssemblyReference.cache
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt_string.Form1.resources
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt_string.Properties.Resources.resources
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt string.csproj.GenerateResource.Cache
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt string.csproj.CoreCompileInputs.cache
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\bin\Debug\Encrypt string.exe.config
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\bin\Debug\Encrypt string.exe
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\bin\Debug\Encrypt string.pdb
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\bin\Debug\eCryptography.dll
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt string.exe
+C:\Users\ashes\source\repos\Encrypt string\Encrypt string\obj\Debug\Encrypt string.pdb
